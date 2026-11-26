@@ -621,4 +621,4 @@ Add runtime detection for common memory leak patterns.
 
 - React useEffect Cleanup: https://react.dev/reference/react/useEffect#cleaning-up-an-effect
 - Chrome DevTools Memory Profiling: https://developer.chrome.com/docs/devtools/memory-problems/
-- MDN Web Workers: https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API.
+- MDN Web Workers: https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API..
